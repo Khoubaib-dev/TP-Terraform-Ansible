@@ -1,0 +1,5 @@
+ami_id          = "ami-04b4f1a9cf54c11d0"
+instance_type   = "t2.micro"
+bucket_name     = "bucket-terraform-khoubaib-97296621"
+key_pair_name   = "my-key"
+public_key_path = "~/.ssh/id_rsa.pub"
